@@ -1,8 +1,7 @@
 Date: 2013-11-27
 Title: pelican install
 Tags: pelican
-Category: Pelican
-Slug: pelican-install
+
 
 ## Welcome to MarkdownPad 2 ##
 
